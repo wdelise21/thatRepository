@@ -2,15 +2,15 @@
 
 So uh... 
 
-this is *that* Repository
+this is *that* ***Repository***
 
 by yours truly
 it has stuff in it
 
-*that* Stuff
+*that* ***Stuff***
 
 have fun 
 
 also note:
 
-not *that* *that* stuff
+not *that* *that* ***stuff***
