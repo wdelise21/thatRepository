@@ -1,16 +1,11 @@
-# thatRepository
+# Welcome to ***thatRepository***
 
-So uh... 
 
-this is *that* ***Repository***
 
-by yours truly
-it has stuff in it
+**This Repository has random things in it.**
 
-*that* ***Stuff***
+**Quite literally, random.**
 
-have fun 
+**From tests, to projects and just random pranks - welcome to:**
 
-also note:
-
-not *that* *that* ***stuff***
+***That*****Repository**
